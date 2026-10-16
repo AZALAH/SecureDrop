@@ -60,16 +60,6 @@ Set `LOCAL_TEST = True` in `secure_drop.py` to route broadcasts and transfers th
 - Support multiple users per client
 - Handle a missing contacts file on first `add`
 
-## Team
-
-Built by a team of three:
-
-- **Ahmed Salah:** registration, salted password hashing, and login authentication (milestones 1 and 2); integration and testing of online detection and file transfer
-- **Adam Kazi:** per-user contact management (milestone 3) and online detection (milestone 4)
-- **Orion Golden:** UDP online detection (milestone 4) and encrypted file transfer with replay protection (milestone 5)
-
-All three tested milestones 4 and 5 together.
-
 ---
 
 Ahmed Salah · [azalah.github.io](https://azalah.github.io) · [LinkedIn](https://www.linkedin.com/in/ahmed-salah-cs2006)
